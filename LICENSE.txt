@@ -1,0 +1,76 @@
+LUXEVA — Luxury Fashion E-commerce Template
+Template License
+
+Copyright (c) 2026 the template author. All rights reserved.
+
+This license governs your use of the LUXEVA website template (the "Template"),
+including its source code, styles, illustrations and documentation. By
+downloading or using the Template you agree to these terms.
+
+1. GRANT OF LICENSE
+   Upon purchase you are granted a non-exclusive, non-transferable, perpetual,
+   worldwide license to use and modify the Template to create websites or
+   applications ("End Products") for yourself or for a single client per
+   purchased license.
+
+2. YOU MAY
+   a. Use the Template to build End Products for personal or commercial use.
+   b. Modify, adapt and combine the Template with other works.
+   c. Deploy End Products on any number of domains owned by the same end user
+      or client.
+   d. Charge your client for the services you provide in creating the End
+      Product.
+
+3. YOU MAY NOT
+   a. Resell, redistribute, sublicense, share or give away the Template or any
+      substantial part of it as-is or modified, including as a template, theme,
+      starter kit, UI kit, component library or design asset — whether free or
+      paid.
+   b. Offer the Template, or End Products built primarily from it, on any
+      template marketplace or in any "website builder" product where end users
+      can create their own sites from it.
+   c. Claim the original Template, its design or its illustrations as your own
+      original work for the purpose of resale.
+   d. Use the Template in any unlawful, misleading or harmful way.
+
+4. OWNERSHIP
+   This is a license to use the Template, not a sale or transfer of ownership.
+   The author retains all copyright and intellectual property rights in the
+   Template. No exclusive rights are granted. You own the original content you
+   add to your End Product (your text, photography, products and branding).
+
+5. THIRD-PARTY COMPONENTS
+   The Template uses open-source software and fonts (including React, React
+   Router, Vite, Tailwind CSS, Bodoni Moda and Jost) that are distributed under
+   their own licenses (MIT, SIL Open Font License 1.1 and similar). Those
+   licenses apply to the respective components and are not altered by this
+   license.
+
+6. DEMO CONTENT
+   The brand name "LUXEVA", product names, copy, statistics, addresses and
+   legal text included in the Template are fictional demo content. The legal
+   pages are templates only and do not constitute legal advice; replace them
+   with your own professionally reviewed policies. Checkout, payments,
+   authentication, customer accounts and forms are frontend demonstrations
+   only and do not process real transactions or data.
+
+7. NO WARRANTY
+   THE TEMPLATE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+8. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+   FROM, OUT OF OR IN CONNECTION WITH THE TEMPLATE OR THE USE OF OR OTHER
+   DEALINGS IN THE TEMPLATE, INCLUDING ANY END PRODUCT BUILT WITH IT.
+
+9. TERMINATION
+   This license terminates automatically if you breach any of its terms. Upon
+   termination you must stop using the Template and delete all copies in your
+   possession. End Products already lawfully delivered to clients before
+   termination are not affected.
+
+For an extended license (for example, use in an unlimited number of client
+projects or in a SaaS product), please contact the seller through the
+marketplace or store where you purchased the Template.

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" preserveAspectRatio="xMidYMid slice">
+<defs>
+  <linearGradient id="sh59" x1="0" x2="1" y1="0" y2="0">
+    <stop offset="0" stop-color="#fff" stop-opacity=".16"/>
+    <stop offset=".45" stop-color="#fff" stop-opacity="0"/>
+    <stop offset="1" stop-color="#000" stop-opacity=".22"/>
+  </linearGradient>
+  <linearGradient id="shv59" x1="0" x2="0" y1="0" y2="1">
+    <stop offset="0" stop-color="#fff" stop-opacity=".08"/>
+    <stop offset="1" stop-color="#000" stop-opacity=".12"/>
+  </linearGradient>
+  <filter id="blur59" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+  <filter id="soft59" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter>
+  <filter id="grain59" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" stitchTiles="stitch"/>
+    <feColorMatrix values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .55 0"/>
+  </filter>
+</defs><rect width="800" height="1000" fill="#D6CDBF"/><path d="M0,0 L520,0 L180,1000 L0,1000 Z" fill="#fff" opacity=".12" filter="url(#soft59)"/><g transform="translate(-188.0 -185.6) scale(2.94)"><path d="M70,230 Q70,198 106,196 L176,198 Q196,200 194,232 Q190,282 140,290 Q76,292 70,230 Z" fill="#2A2420" /><path d="M330,230 Q330,198 294,196 L224,198 Q204,200 206,232 Q210,282 260,290 Q324,292 330,230 Z" fill="#2A2420" /><path d="M70,230 Q70,198 106,196 L176,198 Q196,200 194,232 Q190,282 140,290 Q76,292 70,230 Z" fill="url(#sh59)" /><path d="M330,230 Q330,198 294,196 L224,198 Q204,200 206,232 Q210,282 260,290 Q324,292 330,230 Z" fill="url(#sh59)" /><path d="M80,230 Q80,208 108,206 L172,208 Q186,210 184,232 Q180,272 140,280 Q86,282 80,230 Z" fill="#1a1614" opacity=".85"/><path d="M320,230 Q320,208 292,206 L228,208 Q214,210 216,232 Q220,272 260,280 Q314,282 320,230 Z" fill="#1a1614" opacity=".85"/><path d="M192,214 Q200,204 208,214" fill="none" stroke="#2A2420" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" /><path d="M70,212 L46,206" fill="none" stroke="#2A2420" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" /><path d="M330,212 L354,206" fill="none" stroke="#2A2420" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" /><path d="M96,220 Q110,214 128,216" fill="none" stroke="#75716e" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity=".35"/><path d="M304,220 Q290,214 272,216" fill="none" stroke="#75716e" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity=".35"/></g><rect width="800" height="1000" fill="url(#shv59)"/><rect width="800" height="1000" filter="url(#grain59)" opacity=".18" style="mix-blend-mode:multiply"/></svg>

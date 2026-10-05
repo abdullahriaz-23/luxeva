@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" preserveAspectRatio="xMidYMid slice">
+<defs>
+  <linearGradient id="sh97" x1="0" x2="1" y1="0" y2="0">
+    <stop offset="0" stop-color="#fff" stop-opacity=".16"/>
+    <stop offset=".45" stop-color="#fff" stop-opacity="0"/>
+    <stop offset="1" stop-color="#000" stop-opacity=".22"/>
+  </linearGradient>
+  <linearGradient id="shv97" x1="0" x2="0" y1="0" y2="1">
+    <stop offset="0" stop-color="#fff" stop-opacity=".08"/>
+    <stop offset="1" stop-color="#000" stop-opacity=".12"/>
+  </linearGradient>
+  <filter id="blur97" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+  <filter id="soft97" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter>
+  <filter id="grain97" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" stitchTiles="stitch"/>
+    <feColorMatrix values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .55 0"/>
+  </filter>
+</defs><rect width="1200" height="900" fill="#E4DACB"/><circle cx="936" cy="270" r="108" fill="#F1E9DC"/><rect x="0" y="495.00000000000006" width="1200" height="405" fill="#C2B6A3"/><ellipse cx="504" cy="796" rx="172.5" ry="16.099999999999998" fill="#000" opacity=".22" filter="url(#blur97)"/><g transform="translate(274.0 295.2) scale(1.15)"><path d="M70,262 Q70,222 120,222 L280,222 Q330,222 330,262 L330,410 Q330,428 312,428 L88,428 Q70,428 70,410 Z" fill="#5E4A3A" /><path d="M70,262 Q70,222 120,222 L280,222 Q330,222 330,262 L330,410 Q330,428 312,428 L88,428 Q70,428 70,410 Z" fill="url(#sh97)" /><path d="M150,226 Q150,146 200,146 Q250,146 250,226" fill="none" stroke="#3a2e24" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" /><path d="M88,238 L312,238" fill="none" stroke="#B8955E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" /><rect x="296" y="232" width="10" height="16" rx="2" fill="#B8955E"/><path d="M140,224 L140,428" fill="none" stroke="#3a2e24" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" opacity=".28"/><path d="M260,224 L260,428" fill="none" stroke="#3a2e24" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" opacity=".28"/><path d="M84,250 Q78,330 86,414" fill="none" stroke="#3a2e24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".3"/><path d="M316,250 Q322,330 314,414" fill="none" stroke="#3a2e24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".3"/><path d="M132,226 L132,428" fill="none" stroke="#96897f" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 5" opacity=".4"/><path d="M268,226 L268,428" fill="none" stroke="#96897f" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 5" opacity=".4"/></g><rect width="1200" height="900" filter="url(#grain97)" opacity=".18" style="mix-blend-mode:multiply"/></svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" preserveAspectRatio="xMidYMid slice">
+<defs>
+  <linearGradient id="sh35" x1="0" x2="1" y1="0" y2="0">
+    <stop offset="0" stop-color="#fff" stop-opacity=".16"/>
+    <stop offset=".45" stop-color="#fff" stop-opacity="0"/>
+    <stop offset="1" stop-color="#000" stop-opacity=".22"/>
+  </linearGradient>
+  <linearGradient id="shv35" x1="0" x2="0" y1="0" y2="1">
+    <stop offset="0" stop-color="#fff" stop-opacity=".08"/>
+    <stop offset="1" stop-color="#000" stop-opacity=".12"/>
+  </linearGradient>
+  <filter id="blur35" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+  <filter id="soft35" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter>
+  <filter id="grain35" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" stitchTiles="stitch"/>
+    <feColorMatrix values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .55 0"/>
+  </filter>
+</defs><rect width="800" height="1000" fill="#D7CEC0"/><path d="M0,0 L520,0 L180,1000 L0,1000 Z" fill="#fff" opacity=".12" filter="url(#soft35)"/><g transform="translate(-283.1 -535.7) scale(3.105)"><path d="M80,380 L80,322 Q82,306 98,306 L176,316 Q206,308 240,316 Q300,330 336,352 Q354,364 348,380 Z" fill="#3B2A21" /><path d="M80,380 L80,322 Q82,306 98,306 L176,316 Q206,308 240,316 Q300,330 336,352 Q354,364 348,380 Z" fill="url(#sh35)" /><path d="M78,378 L350,378 Q352,388 340,388 L80,388 Z" fill="#251a14" /><path d="M78,384 L128,384 L126,392 L80,392 Z" fill="#251a14" /><path d="M98,308 L176,318 L176,326 Q132,324 98,318 Z" fill="#251a14" opacity=".7"/><path d="M186,318 Q226,306 262,322 L258,340 Q224,326 190,334 Z" fill="#251a14" opacity=".3"/><path d="M216,320 L236,318 L236,326 L216,328 Z" fill="#251a14" opacity=".6"/><path d="M180,318 Q250,300 300,330 Q330,346 340,362" fill="none" stroke="#80756f" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4" opacity=".5"/><path d="M90,356 Q200,344 330,366" fill="none" stroke="#80756f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".2"/></g><rect width="800" height="1000" fill="url(#shv35)"/><rect width="800" height="1000" filter="url(#grain35)" opacity=".18" style="mix-blend-mode:multiply"/></svg>

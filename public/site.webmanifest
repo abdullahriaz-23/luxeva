@@ -1,0 +1,8 @@
+{
+  "name": "LUXEVA",
+  "short_name": "LUXEVA",
+  "icons": [{ "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }],
+  "theme_color": "#f6f2ea",
+  "background_color": "#f6f2ea",
+  "display": "standalone"
+}

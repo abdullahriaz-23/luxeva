@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200" preserveAspectRatio="xMidYMid slice">
+<defs>
+  <linearGradient id="sh76" x1="0" x2="1" y1="0" y2="0">
+    <stop offset="0" stop-color="#fff" stop-opacity=".16"/>
+    <stop offset=".45" stop-color="#fff" stop-opacity="0"/>
+    <stop offset="1" stop-color="#000" stop-opacity=".22"/>
+  </linearGradient>
+  <linearGradient id="shv76" x1="0" x2="0" y1="0" y2="1">
+    <stop offset="0" stop-color="#fff" stop-opacity=".08"/>
+    <stop offset="1" stop-color="#000" stop-opacity=".12"/>
+  </linearGradient>
+  <filter id="blur76" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+  <filter id="soft76" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter>
+  <filter id="grain76" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" stitchTiles="stitch"/>
+    <feColorMatrix values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .55 0"/>
+  </filter>
+</defs><linearGradient id="lea76" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7B5638" stop-opacity="1"/><stop offset="1" stop-color="#4A3221" stop-opacity="1"/></linearGradient><rect width="1200" height="1200" fill="url(#lea76)"/><path d="M0,0 L1200,0 L1200,520 C800,600 400,420 0,520 Z" fill="#000" opacity=".15"/><path d="M-20,300 C400,240 800,360 1220,290" fill="none" stroke="#E6D3B3" stroke-width="5" stroke-linecap="round" opacity="0.7" stroke-dasharray="22 16"/><path d="M-20,520 C400,460 800,580 1220,510" fill="none" stroke="#E6D3B3" stroke-width="5" stroke-linecap="round" opacity="0.7" stroke-dasharray="22 16"/><path d="M-20,740 C400,680 800,800 1220,730" fill="none" stroke="#E6D3B3" stroke-width="5" stroke-linecap="round" opacity="0.7" stroke-dasharray="22 16"/><path d="M-20,960 C400,900 800,1020 1220,950" fill="none" stroke="#E6D3B3" stroke-width="5" stroke-linecap="round" opacity="0.7" stroke-dasharray="22 16"/><rect x="640" y="420" width="300" height="380" rx="44" fill="none" stroke="#C9A56B" stroke-width="42"/><rect x="640" y="420" width="300" height="380" rx="44" fill="none" stroke="#F3E2BE" stroke-width="4" opacity=".55" transform="translate(-8 -8)"/><rect x="700" y="590" width="180" height="34" rx="17" fill="#C9A56B"/><ellipse cx="420" cy="300" rx="420" ry="260" fill="#fff" opacity=".1" filter="url(#soft76)"/><rect width="1200" height="1200" filter="url(#grain76)" opacity=".18" style="mix-blend-mode:multiply"/></svg>
